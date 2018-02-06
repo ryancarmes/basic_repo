@@ -1,2 +1,4 @@
 -Create some files inside your local repo
 -Add some content on them.
+-Make some more changes to the local copy of your file and push them to GitHub.
+
