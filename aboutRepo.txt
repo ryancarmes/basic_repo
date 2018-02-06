@@ -1,0 +1,2 @@
+-Create some files inside your local repo
+-Add some content on them.
